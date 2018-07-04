@@ -6,6 +6,7 @@ public class principal {
 		// TODO Auto-generated method stub
 System.out.println("prueba eclipse");
 		//esta es una modificacion
+//modificacion2
 	}
 
 }
